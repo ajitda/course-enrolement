@@ -1,0 +1,19 @@
+{
+    "name": "ajitda/course-enrolement",
+    "description": "create a course enrolement system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ajit Das",
+            "email": "ajitdas2900@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Flexi\\CourseEnrolement\\": "src/"
+        }
+    }
+}
